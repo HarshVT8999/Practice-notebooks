@@ -1,2 +1,2 @@
 # Practice-notebooks
-Python notebooks of practice problems
+Python solution notebooks for various practice problems 
