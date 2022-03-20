@@ -1,3 +1,3 @@
 # Practice-notebooks
 
-Python notebooks of practice problems
+Solved Python Practice Problems
