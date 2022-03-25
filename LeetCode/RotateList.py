@@ -27,6 +27,9 @@ class Solution:
 
         k = k % length if k >= length else k
 
+        if length == 1 or k == 0:
+            return head
+
         curr = head
         for i in range(length - k - 1):
             curr = curr.next
