@@ -3,7 +3,7 @@ def TwoSum(list, target):
     for i, element in enumerate(list):
         rem = target - element
         if(rem in hashtable):
-            print([i, hashtable[rem]])
+            print([hashtable[rem], i])
         hashtable[element] = i
 
 
